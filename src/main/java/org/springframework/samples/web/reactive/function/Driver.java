@@ -45,7 +45,7 @@ public class Driver {
 		driver.startReactorServer();
 //		driver.startTomcatServer();
 
-		System.out.println("Press ENTER to exit.");
+		System.out.println("Press ENTER to exit...");
 		System.in.read();
 	}
 
